@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.cuweir'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'io.netty:netty-all:4.1.55.Final'
+}
