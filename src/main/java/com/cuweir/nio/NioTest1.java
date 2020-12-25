@@ -3,7 +3,7 @@ package com.cuweir.nio;
 import java.nio.IntBuffer;
 import java.security.SecureRandom;
 
-public class NidTest1 {
+public class NioTest1 {
     public static void main(String[] args) {
         IntBuffer buffer = IntBuffer.allocate(10);
 
